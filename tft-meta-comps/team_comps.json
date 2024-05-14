@@ -1,25 +1,14 @@
 [
     {
-        "name": "Dryad Reapers",
+        "name": "Fated Arcanists",
         "rank": "S",
         "characters": [
             {
-                "name": "RekSai",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/RekSai.png",
+                "name": "Ahri",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Ahri.png",
                 "attrs": [
                     "c1",
-                    "s11",
-                    "l3"
-                ],
-                "items": []
-            },
-            {
-                "name": "Aatrox",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Aatrox.png",
-                "attrs": [
-                    "c2",
-                    "s11",
-                    "l3"
+                    "s11"
                 ],
                 "items": []
             },
@@ -28,60 +17,267 @@
                 "avatar": "https://rerollcdn.com/characters/Skin/11/Gnar.png",
                 "attrs": [
                     "c2",
-                    "s11",
-                    "l3"
+                    "s11"
                 ],
-                "items": [
-                    {
-                        "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
-                    },
-                    {
-                        "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
-                    },
-                    {
-                        "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
-                    }
-                ]
+                "items": []
             },
             {
                 "name": "Kindred",
                 "avatar": "https://rerollcdn.com/characters/Skin/11/Kindred.png",
                 "attrs": [
                     "c2",
-                    "s11",
-                    "l3"
-                ],
-                "items": [
-                    {
-                        "name": "Blue Buff",
-                        "src": "https://rerollcdn.com/items/BlueBuff.png"
-                    },
-                    {
-                        "name": "Morellonomicon",
-                        "src": "https://rerollcdn.com/items/Morellonomicon.png"
-                    },
-                    {
-                        "name": "Rabadon's Deathcap",
-                        "src": "https://rerollcdn.com/items/RabadonsDeathcap.png"
-                    }
-                ]
-            },
-            {
-                "name": "Shen",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Shen.png",
-                "attrs": [
-                    "c2",
-                    "s11",
-                    "l3"
+                    "s11"
                 ],
                 "items": []
             },
             {
-                "name": "Illaoi",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Illaoi.png",
+                "name": "Thresh",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Thresh.png",
+                "attrs": [
+                    "c3",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                    },
+                    {
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
+                    },
+                    {
+                        "name": "Warmog's Armor",
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
+                    }
+                ]
+            },
+            {
+                "name": "Syndra",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Syndra.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Blue Buff",
+                        "avatar": "https://rerollcdn.com/items/BlueBuff.png"
+                    },
+                    {
+                        "name": "Jeweled Gauntlet",
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                    },
+                    {
+                        "name": "Nashor's Tooth",
+                        "avatar": "https://rerollcdn.com/items/NashorsTooth.png"
+                    }
+                ]
+            },
+            {
+                "name": "Ornn",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Ornn.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Azir",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Azir.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Sett",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Sett.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            }
+        ],
+        "ingredients": {
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 4,
+            "Tear of the Goddess": 3,
+            "Needlessly Large Rod": 1,
+            "Sparring Gloves": 1,
+            "Recurve Bow": 1
+        }
+    },
+    {
+        "name": "Bruiser Trickshots",
+        "rank": "S",
+        "characters": [
+            {
+                "name": "Kayle",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayle.png",
+                "attrs": [
+                    "c0",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Talisman of Speed",
+                        "avatar": "https://rerollcdn.com/items/TalismanofSpeed.png"
+                    }
+                ]
+            },
+            {
+                "name": "Sivir",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Sivir.png",
+                "attrs": [
+                    "c1",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Aatrox",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Aatrox.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Riven",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Riven.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Teemo",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Teemo.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Galio",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Galio.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                    },
+                    {
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
+                    },
+                    {
+                        "name": "Warmog's Armor",
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
+                    }
+                ]
+            },
+            {
+                "name": "Kaisa",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Kaisa.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Infinity Edge",
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
+                    },
+                    {
+                        "name": "Last Whisper",
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
+                    },
+                    {
+                        "name": "Spear of Shojin",
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
+                    }
+                ]
+            },
+            {
+                "name": "Sylas",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Sylas.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Xayah",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Xayah.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            }
+        ],
+        "ingredients": {
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 2,
+            "B.F. Sword": 2,
+            "Sparring Gloves": 2,
+            "Recurve Bow": 1
+        }
+    },
+    {
+        "name": "Dragonlord Duelists",
+        "rank": "S",
+        "characters": [
+            {
+                "name": "Kayle",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayle.png",
+                "attrs": [
+                    "c0",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Talisman of Speed",
+                        "avatar": "https://rerollcdn.com/items/TalismanofSpeed.png"
+                    }
+                ]
+            },
+            {
+                "name": "Janna",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Janna.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Riven",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Riven.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Diana",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Diana.png",
                 "attrs": [
                     "c3",
                     "s11"
@@ -89,10 +285,124 @@
                 "items": []
             },
             {
-                "name": "Kayn",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayn.png",
+                "name": "Soraka",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Soraka.png",
+                "attrs": [
+                    "c3",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Galio",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Galio.png",
                 "attrs": [
                     "c4",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                    },
+                    {
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
+                    },
+                    {
+                        "name": "Warmog's Armor",
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Sin",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/LeeSin.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Irelia",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Irelia.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Guinsoo's Rageblade",
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                    },
+                    {
+                        "name": "Infinity Edge",
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
+                    },
+                    {
+                        "name": "Red Buff",
+                        "avatar": "https://rerollcdn.com/items/RedBuff.png"
+                    }
+                ]
+            },
+            {
+                "name": "Rakan",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Rakan.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            }
+        ],
+        "ingredients": {
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1,
+            "Recurve Bow": 3,
+            "Needlessly Large Rod": 1,
+            "B.F. Sword": 1,
+            "Sparring Gloves": 1
+        }
+    },
+    {
+        "name": "Dragonlord Trickshots",
+        "rank": "S",
+        "characters": [
+            {
+                "name": "Janna",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Janna.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Diana",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Diana.png",
+                "attrs": [
+                    "c3",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Lee Sin",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/LeeSin.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Volibear",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Volibear.png",
+                "attrs": [
+                    "c3",
                     "s11"
                 ],
                 "items": []
@@ -104,17 +414,70 @@
                     "c4",
                     "s11"
                 ],
+                "items": [
+                    {
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                    },
+                    {
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
+                    },
+                    {
+                        "name": "Warmog's Armor",
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
+                    }
+                ]
+            },
+            {
+                "name": "Kaisa",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Kaisa.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Infinity Edge",
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
+                    },
+                    {
+                        "name": "Last Whisper",
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
+                    },
+                    {
+                        "name": "Spear of Shojin",
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
+                    }
+                ]
+            },
+            {
+                "name": "Udyr",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Udyr.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Xayah",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Xayah.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
                 "items": []
             }
         ],
         "ingredients": {
-            "B.F. Sword": 1,
+            "Chain Vest": 1,
             "Negatron Cloak": 1,
-            "Chain Vest": 2,
-            "Recurve Bow": 2,
+            "Giant's Belt": 3,
             "Tear of the Goddess": 2,
-            "Needlessly Large Rod": 3,
-            "Giant's Belt": 1
+            "B.F. Sword": 2,
+            "Sparring Gloves": 2,
+            "Recurve Bow": 1
         }
     },
     {
@@ -175,16 +538,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
-                    },
-                    {
                         "name": "Edge of Night",
-                        "src": "https://rerollcdn.com/items/EdgeofNight.png"
+                        "avatar": "https://rerollcdn.com/items/EdgeofNight.png"
                     },
                     {
                         "name": "Hand of Justice",
-                        "src": "https://rerollcdn.com/items/HandofJustice.png"
+                        "avatar": "https://rerollcdn.com/items/HandofJustice.png"
+                    },
+                    {
+                        "name": "Last Whisper",
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
                     }
                 ]
             },
@@ -198,15 +561,15 @@
                 "items": [
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
                         "name": "Morellonomicon",
-                        "src": "https://rerollcdn.com/items/Morellonomicon.png"
+                        "avatar": "https://rerollcdn.com/items/Morellonomicon.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -221,18 +584,374 @@
             }
         ],
         "ingredients": {
-            "B.F. Sword": 3,
-            "Negatron Cloak": 1,
             "Chain Vest": 1,
-            "Sparring Gloves": 2,
+            "B.F. Sword": 2,
+            "Sparring Gloves": 3,
             "Tear of the Goddess": 2,
+            "Recurve Bow": 1,
             "Needlessly Large Rod": 2,
             "Giant's Belt": 1
         }
     },
     {
-        "name": "Porcelain Snipers",
+        "name": "Umbral Reapers",
         "rank": "S",
+        "characters": [
+            {
+                "name": "Darius",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Darius.png",
+                "attrs": [
+                    "c1",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Shen",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Shen.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Yorick",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Yorick.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Alune",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Alune.png",
+                "attrs": [
+                    "c3",
+                    "s11",
+                    "l3"
+                ],
+                "items": [
+                    {
+                        "name": "Archangel's Staff",
+                        "avatar": "https://rerollcdn.com/items/ArchangelsStaff.png"
+                    },
+                    {
+                        "name": "Morellonomicon",
+                        "avatar": "https://rerollcdn.com/items/Morellonomicon.png"
+                    },
+                    {
+                        "name": "Spear of Shojin",
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
+                    }
+                ]
+            },
+            {
+                "name": "Yone",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Yone.png",
+                "attrs": [
+                    "c3",
+                    "s11",
+                    "l3"
+                ],
+                "items": [
+                    {
+                        "name": "Bloodthirster",
+                        "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
+                    },
+                    {
+                        "name": "Quicksilver",
+                        "avatar": "https://rerollcdn.com/items/Quicksilver.png"
+                    },
+                    {
+                        "name": "Titan's Resolve",
+                        "avatar": "https://rerollcdn.com/items/TitansResolve.png"
+                    }
+                ]
+            },
+            {
+                "name": "Kayn",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayn.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Sylas",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Sylas.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Sett",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Sett.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            }
+        ],
+        "ingredients": {
+            "Needlessly Large Rod": 2,
+            "Tear of the Goddess": 2,
+            "Giant's Belt": 1,
+            "B.F. Sword": 2,
+            "Negatron Cloak": 2,
+            "Sparring Gloves": 1,
+            "Chain Vest": 1,
+            "Recurve Bow": 1
+        }
+    },
+    {
+        "name": "Dragonlord Behemoths",
+        "rank": "A",
+        "characters": [
+            {
+                "name": "Janna",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Janna.png",
+                "attrs": [
+                    "c2",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Diana",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Diana.png",
+                "attrs": [
+                    "c3",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Soraka",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Soraka.png",
+                "attrs": [
+                    "c3",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Ornn",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Ornn.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Azir",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Azir.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Jeweled Gauntlet",
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                    },
+                    {
+                        "name": "Spear of Shojin",
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
+                    },
+                    {
+                        "name": "Statikk Shiv",
+                        "avatar": "https://rerollcdn.com/items/StatikkShiv.png"
+                    }
+                ]
+            },
+            {
+                "name": "Hwei",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Hwei.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": [
+                    {
+                        "name": "Morellonomicon",
+                        "avatar": "https://rerollcdn.com/items/Morellonomicon.png"
+                    },
+                    {
+                        "name": "Nashor's Tooth",
+                        "avatar": "https://rerollcdn.com/items/NashorsTooth.png"
+                    },
+                    {
+                        "name": "Spear of Shojin",
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
+                    }
+                ]
+            },
+            {
+                "name": "Rakan",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Rakan.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Udyr",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Udyr.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Wukong",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Wukong.png",
+                "attrs": [
+                    "c5",
+                    "s11"
+                ],
+                "items": []
+            }
+        ],
+        "ingredients": {
+            "Needlessly Large Rod": 2,
+            "Sparring Gloves": 1,
+            "B.F. Sword": 2,
+            "Tear of the Goddess": 3,
+            "Recurve Bow": 2,
+            "Giant's Belt": 2
+        }
+    },
+    {
+        "name": "Dryad Reapers",
+        "rank": "A",
+        "characters": [
+            {
+                "name": "RekSai",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/RekSai.png",
+                "attrs": [
+                    "c1",
+                    "s11",
+                    "l3"
+                ],
+                "items": []
+            },
+            {
+                "name": "Aatrox",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Aatrox.png",
+                "attrs": [
+                    "c2",
+                    "s11",
+                    "l3"
+                ],
+                "items": []
+            },
+            {
+                "name": "Gnar",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Gnar.png",
+                "attrs": [
+                    "c2",
+                    "s11",
+                    "l3"
+                ],
+                "items": [
+                    {
+                        "name": "Bloodthirster",
+                        "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
+                    },
+                    {
+                        "name": "Hand of Justice",
+                        "avatar": "https://rerollcdn.com/items/HandofJustice.png"
+                    },
+                    {
+                        "name": "Titan's Resolve",
+                        "avatar": "https://rerollcdn.com/items/TitansResolve.png"
+                    }
+                ]
+            },
+            {
+                "name": "Kindred",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Kindred.png",
+                "attrs": [
+                    "c2",
+                    "s11",
+                    "l3"
+                ],
+                "items": [
+                    {
+                        "name": "Blue Buff",
+                        "avatar": "https://rerollcdn.com/items/BlueBuff.png"
+                    },
+                    {
+                        "name": "Morellonomicon",
+                        "avatar": "https://rerollcdn.com/items/Morellonomicon.png"
+                    },
+                    {
+                        "name": "Rabadon's Deathcap",
+                        "avatar": "https://rerollcdn.com/items/RabadonsDeathcap.png"
+                    }
+                ]
+            },
+            {
+                "name": "Shen",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Shen.png",
+                "attrs": [
+                    "c2",
+                    "s11",
+                    "l3"
+                ],
+                "items": []
+            },
+            {
+                "name": "Illaoi",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Illaoi.png",
+                "attrs": [
+                    "c3",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Kayn",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayn.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            },
+            {
+                "name": "Ornn",
+                "avatar": "https://rerollcdn.com/characters/Skin/11/Ornn.png",
+                "attrs": [
+                    "c4",
+                    "s11"
+                ],
+                "items": []
+            }
+        ],
+        "ingredients": {
+            "B.F. Sword": 1,
+            "Negatron Cloak": 1,
+            "Sparring Gloves": 1,
+            "Tear of the Goddess": 3,
+            "Chain Vest": 1,
+            "Recurve Bow": 1,
+            "Needlessly Large Rod": 3,
+            "Giant's Belt": 1
+        }
+    },
+    {
+        "name": "Porcelain Snipers",
+        "rank": "A",
         "characters": [
             {
                 "name": "KogMaw",
@@ -270,16 +989,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -293,15 +1012,15 @@
                 "items": [
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
                     },
                     {
                         "name": "Last Whisper",
-                        "src": "https://rerollcdn.com/items/LastWhisper.png"
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
                     }
                 ]
             },
@@ -343,501 +1062,14 @@
             }
         ],
         "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1,
             "Recurve Bow": 2,
             "Needlessly Large Rod": 1,
             "B.F. Sword": 1,
             "Sparring Gloves": 2
-        }
-    },
-    {
-        "name": "Bruiser Trickshots",
-        "rank": "S",
-        "characters": [
-            {
-                "name": "Kayle",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayle.png",
-                "attrs": [
-                    "c0",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Talisman of Speed",
-                        "src": "https://rerollcdn.com/items/TalismanofSpeed.png"
-                    }
-                ]
-            },
-            {
-                "name": "Sivir",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Sivir.png",
-                "attrs": [
-                    "c1",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Aatrox",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Aatrox.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Riven",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Riven.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Teemo",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Teemo.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Galio",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Galio.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
-                    },
-                    {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
-                    },
-                    {
-                        "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
-                    }
-                ]
-            },
-            {
-                "name": "Kaisa",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Kaisa.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
-                    },
-                    {
-                        "name": "Last Whisper",
-                        "src": "https://rerollcdn.com/items/LastWhisper.png"
-                    },
-                    {
-                        "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
-                    }
-                ]
-            },
-            {
-                "name": "Sylas",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Sylas.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Xayah",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Xayah.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            }
-        ],
-        "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
-            "B.F. Sword": 2,
-            "Sparring Gloves": 2,
-            "Recurve Bow": 1,
-            "Tear of the Goddess": 1
-        }
-    },
-    {
-        "name": "Dragonlord Behemoths",
-        "rank": "S",
-        "characters": [
-            {
-                "name": "Janna",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Janna.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Diana",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Diana.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Soraka",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Soraka.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Ornn",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Ornn.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Azir",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Azir.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
-                    },
-                    {
-                        "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
-                    },
-                    {
-                        "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
-                    }
-                ]
-            },
-            {
-                "name": "Hwei",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Hwei.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Morellonomicon",
-                        "src": "https://rerollcdn.com/items/Morellonomicon.png"
-                    },
-                    {
-                        "name": "Rabadon's Deathcap",
-                        "src": "https://rerollcdn.com/items/RabadonsDeathcap.png"
-                    },
-                    {
-                        "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
-                    }
-                ]
-            },
-            {
-                "name": "Rakan",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Rakan.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Udyr",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Udyr.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Wukong",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Wukong.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            }
-        ],
-        "ingredients": {
-            "Recurve Bow": 1,
-            "Needlessly Large Rod": 5,
-            "Sparring Gloves": 1,
-            "B.F. Sword": 2,
-            "Tear of the Goddess": 2,
-            "Giant's Belt": 1
-        }
-    },
-    {
-        "name": "Dragonlord Duelists",
-        "rank": "S",
-        "characters": [
-            {
-                "name": "Kayle",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayle.png",
-                "attrs": [
-                    "c0",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Talisman of Speed",
-                        "src": "https://rerollcdn.com/items/TalismanofSpeed.png"
-                    }
-                ]
-            },
-            {
-                "name": "Janna",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Janna.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Riven",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Riven.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Diana",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Diana.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Soraka",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Soraka.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Galio",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Galio.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
-                    },
-                    {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
-                    },
-                    {
-                        "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
-                    }
-                ]
-            },
-            {
-                "name": "Lee Sin",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/LeeSin.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Irelia",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Irelia.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Giant Slayer",
-                        "src": "https://rerollcdn.com/items/GiantSlayer.png"
-                    },
-                    {
-                        "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
-                    },
-                    {
-                        "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
-                    }
-                ]
-            },
-            {
-                "name": "Rakan",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Rakan.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            }
-        ],
-        "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
-            "B.F. Sword": 2,
-            "Recurve Bow": 2,
-            "Needlessly Large Rod": 1,
-            "Sparring Gloves": 1
-        }
-    },
-    {
-        "name": "Dragonlord Trickshots",
-        "rank": "S",
-        "characters": [
-            {
-                "name": "Janna",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Janna.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Diana",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Diana.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Lee Sin",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/LeeSin.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Volibear",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Volibear.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Ornn",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Ornn.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
-                    },
-                    {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
-                    },
-                    {
-                        "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
-                    }
-                ]
-            },
-            {
-                "name": "Kaisa",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Kaisa.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
-                    },
-                    {
-                        "name": "Last Whisper",
-                        "src": "https://rerollcdn.com/items/LastWhisper.png"
-                    },
-                    {
-                        "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
-                    }
-                ]
-            },
-            {
-                "name": "Udyr",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Udyr.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Xayah",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Xayah.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            }
-        ],
-        "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
-            "B.F. Sword": 2,
-            "Sparring Gloves": 2,
-            "Recurve Bow": 1,
-            "Tear of the Goddess": 1
         }
     },
     {
@@ -854,7 +1086,7 @@
                 "items": [
                     {
                         "name": "Talisman of Speed",
-                        "src": "https://rerollcdn.com/items/TalismanofSpeed.png"
+                        "avatar": "https://rerollcdn.com/items/TalismanofSpeed.png"
                     }
                 ]
             },
@@ -896,15 +1128,15 @@
                 "items": [
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Hextech Gunblade",
-                        "src": "https://rerollcdn.com/items/HextechGunblade.png"
+                        "avatar": "https://rerollcdn.com/items/HextechGunblade.png"
                     }
                 ]
             },
@@ -928,16 +1160,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -964,9 +1196,10 @@
             "Recurve Bow": 2,
             "Needlessly Large Rod": 3,
             "B.F. Sword": 1,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1
         }
     },
     {
@@ -983,7 +1216,7 @@
                 "items": [
                     {
                         "name": "Talisman of Aid",
-                        "src": "https://rerollcdn.com/items/TalismanofAid.png"
+                        "avatar": "https://rerollcdn.com/items/TalismanofAid.png"
                     }
                 ]
             },
@@ -998,15 +1231,15 @@
                 "items": [
                     {
                         "name": "Archangel's Staff",
-                        "src": "https://rerollcdn.com/items/ArchangelsStaff.png"
+                        "avatar": "https://rerollcdn.com/items/ArchangelsStaff.png"
                     },
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -1057,16 +1290,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -1091,12 +1324,12 @@
         ],
         "ingredients": {
             "Needlessly Large Rod": 2,
-            "Tear of the Goddess": 2,
+            "Tear of the Goddess": 3,
             "Recurve Bow": 1,
             "B.F. Sword": 1,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3
         }
     },
     {
@@ -1140,16 +1373,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "name": "Giant Slayer",
+                        "avatar": "https://rerollcdn.com/items/GiantSlayer.png"
                     },
                     {
                         "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
                     },
                     {
                         "name": "Last Whisper",
-                        "src": "https://rerollcdn.com/items/LastWhisper.png"
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
                     }
                 ]
             },
@@ -1164,15 +1397,15 @@
                 "items": [
                     {
                         "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
+                        "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
                     },
                     {
                         "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
+                        "avatar": "https://rerollcdn.com/items/TitansResolve.png"
                     },
                     {
-                        "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "name": "Titan's Resolve",
+                        "avatar": "https://rerollcdn.com/items/TitansResolve.png"
                     }
                 ]
             },
@@ -1205,13 +1438,11 @@
             }
         ],
         "ingredients": {
-            "Recurve Bow": 3,
-            "Needlessly Large Rod": 1,
-            "B.F. Sword": 2,
+            "B.F. Sword": 3,
+            "Recurve Bow": 4,
             "Sparring Gloves": 2,
             "Negatron Cloak": 1,
-            "Chain Vest": 1,
-            "Giant's Belt": 2
+            "Chain Vest": 2
         }
     },
     {
@@ -1238,15 +1469,15 @@
                 "items": [
                     {
                         "name": "Giant Slayer",
-                        "src": "https://rerollcdn.com/items/GiantSlayer.png"
+                        "avatar": "https://rerollcdn.com/items/GiantSlayer.png"
                     },
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     }
                 ]
             },
@@ -1260,16 +1491,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -1323,9 +1554,10 @@
             "B.F. Sword": 1,
             "Recurve Bow": 3,
             "Needlessly Large Rod": 2,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1
         }
     },
     {
@@ -1343,15 +1575,15 @@
                 "items": [
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
                         "name": "Nashor's Tooth",
-                        "src": "https://rerollcdn.com/items/NashorsTooth.png"
+                        "avatar": "https://rerollcdn.com/items/NashorsTooth.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -1376,15 +1608,15 @@
                 "items": [
                     {
                         "name": "Gargoyle Stoneplate",
-                        "src": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
                         "name": "Gargoyle Stoneplate",
-                        "src": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
                         "name": "Gargoyle Stoneplate",
-                        "src": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     }
                 ]
             },
@@ -1470,15 +1702,15 @@
                 "items": [
                     {
                         "name": "Giant Slayer",
-                        "src": "https://rerollcdn.com/items/GiantSlayer.png"
+                        "avatar": "https://rerollcdn.com/items/GiantSlayer.png"
                     },
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
                     }
                 ]
             },
@@ -1492,16 +1724,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -1556,9 +1788,10 @@
             "Recurve Bow": 2,
             "Needlessly Large Rod": 1,
             "Sparring Gloves": 1,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1
         }
     },
     {
@@ -1606,15 +1839,15 @@
                 "items": [
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
                     },
                     {
                         "name": "Last Whisper",
-                        "src": "https://rerollcdn.com/items/LastWhisper.png"
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
                     }
                 ]
             },
@@ -1628,16 +1861,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -1674,9 +1907,10 @@
             "Needlessly Large Rod": 1,
             "B.F. Sword": 1,
             "Sparring Gloves": 2,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1
         }
     },
     {
@@ -1734,15 +1968,15 @@
                 "items": [
                     {
                         "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
+                        "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
+                    },
+                    {
+                        "name": "Hand of Justice",
+                        "avatar": "https://rerollcdn.com/items/HandofJustice.png"
                     },
                     {
                         "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
-                    },
-                    {
-                        "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
+                        "avatar": "https://rerollcdn.com/items/TitansResolve.png"
                     }
                 ]
             },
@@ -1757,15 +1991,15 @@
                 "items": [
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
                     },
                     {
                         "name": "Last Whisper",
-                        "src": "https://rerollcdn.com/items/LastWhisper.png"
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
                     }
                 ]
             },
@@ -1791,10 +2025,11 @@
         "ingredients": {
             "B.F. Sword": 2,
             "Negatron Cloak": 1,
-            "Chain Vest": 2,
-            "Recurve Bow": 4,
-            "Needlessly Large Rod": 1,
-            "Sparring Gloves": 2
+            "Sparring Gloves": 3,
+            "Tear of the Goddess": 1,
+            "Chain Vest": 1,
+            "Recurve Bow": 3,
+            "Needlessly Large Rod": 1
         }
     },
     {
@@ -1821,16 +2056,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -1845,15 +2080,15 @@
                 "items": [
                     {
                         "name": "Blue Buff",
-                        "src": "https://rerollcdn.com/items/BlueBuff.png"
+                        "avatar": "https://rerollcdn.com/items/BlueBuff.png"
                     },
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
-                        "name": "Rabadon's Deathcap",
-                        "src": "https://rerollcdn.com/items/RabadonsDeathcap.png"
+                        "name": "Nashor's Tooth",
+                        "avatar": "https://rerollcdn.com/items/NashorsTooth.png"
                     }
                 ]
             },
@@ -1906,12 +2141,13 @@
             }
         ],
         "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
-            "Tear of the Goddess": 2,
-            "Needlessly Large Rod": 3,
-            "Sparring Gloves": 1
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 4,
+            "Tear of the Goddess": 3,
+            "Needlessly Large Rod": 1,
+            "Sparring Gloves": 1,
+            "Recurve Bow": 1
         }
     },
     {
@@ -1954,16 +2190,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -1977,15 +2213,15 @@
                 "items": [
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
                         "name": "Rabadon's Deathcap",
-                        "src": "https://rerollcdn.com/items/RabadonsDeathcap.png"
+                        "avatar": "https://rerollcdn.com/items/RabadonsDeathcap.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -2018,13 +2254,13 @@
             }
         ],
         "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 2,
             "Needlessly Large Rod": 3,
             "Sparring Gloves": 1,
-            "B.F. Sword": 1,
-            "Tear of the Goddess": 1
+            "B.F. Sword": 1
         }
     },
     {
@@ -2041,7 +2277,7 @@
                 "items": [
                     {
                         "name": "Talisman of Speed",
-                        "src": "https://rerollcdn.com/items/TalismanofSpeed.png"
+                        "avatar": "https://rerollcdn.com/items/TalismanofSpeed.png"
                     }
                 ]
             },
@@ -2074,15 +2310,15 @@
                 "items": [
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Hextech Gunblade",
-                        "src": "https://rerollcdn.com/items/HextechGunblade.png"
+                        "avatar": "https://rerollcdn.com/items/HextechGunblade.png"
                     }
                 ]
             },
@@ -2096,16 +2332,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -2150,9 +2386,10 @@
             "Recurve Bow": 2,
             "Needlessly Large Rod": 3,
             "B.F. Sword": 1,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1
         }
     },
     {
@@ -2169,7 +2406,7 @@
                 "items": [
                     {
                         "name": "Talisman of Aid",
-                        "src": "https://rerollcdn.com/items/TalismanofAid.png"
+                        "avatar": "https://rerollcdn.com/items/TalismanofAid.png"
                     }
                 ]
             },
@@ -2210,15 +2447,15 @@
                 "items": [
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
                         "name": "Morellonomicon",
-                        "src": "https://rerollcdn.com/items/Morellonomicon.png"
+                        "avatar": "https://rerollcdn.com/items/Morellonomicon.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -2231,16 +2468,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -2275,11 +2512,11 @@
         "ingredients": {
             "Needlessly Large Rod": 2,
             "Sparring Gloves": 1,
-            "Giant's Belt": 3,
+            "Giant's Belt": 4,
             "B.F. Sword": 1,
-            "Tear of the Goddess": 1,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2
+            "Tear of the Goddess": 2,
+            "Chain Vest": 1,
+            "Negatron Cloak": 1
         }
     },
     {
@@ -2297,15 +2534,15 @@
                 "items": [
                     {
                         "name": "Talisman of Speed",
-                        "src": "https://rerollcdn.com/items/TalismanofSpeed.png"
+                        "avatar": "https://rerollcdn.com/items/TalismanofSpeed.png"
                     },
                     {
                         "name": "Tome of Swiftness",
-                        "src": "https://rerollcdn.com/items/TomeofSwiftness.png"
+                        "avatar": "https://rerollcdn.com/items/TomeofSwiftness.png"
                     },
                     {
                         "name": "Scroll of Haste",
-                        "src": "https://rerollcdn.com/items/ScrollofHaste.png"
+                        "avatar": "https://rerollcdn.com/items/ScrollofHaste.png"
                     }
                 ]
             },
@@ -2328,15 +2565,15 @@
                 "items": [
                     {
                         "name": "Giant Slayer",
-                        "src": "https://rerollcdn.com/items/GiantSlayer.png"
+                        "avatar": "https://rerollcdn.com/items/GiantSlayer.png"
                     },
                     {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
                     }
                 ]
             },
@@ -2385,16 +2622,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -2407,143 +2644,29 @@
                 ],
                 "items": [
                     {
-                        "name": "Giant Slayer",
-                        "src": "https://rerollcdn.com/items/GiantSlayer.png"
-                    },
-                    {
                         "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+                        "avatar": "https://rerollcdn.com/items/GuinsoosRageblade.png"
                     },
                     {
                         "name": "Infinity Edge",
-                        "src": "https://rerollcdn.com/items/InfinityEdge.png"
+                        "avatar": "https://rerollcdn.com/items/InfinityEdge.png"
+                    },
+                    {
+                        "name": "Red Buff",
+                        "avatar": "https://rerollcdn.com/items/RedBuff.png"
                     }
                 ]
             }
         ],
         "ingredients": {
-            "B.F. Sword": 4,
-            "Recurve Bow": 4,
+            "B.F. Sword": 3,
+            "Recurve Bow": 5,
             "Needlessly Large Rod": 2,
             "Sparring Gloves": 2,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
-        }
-    },
-    {
-        "name": "Umbral Reapers",
-        "rank": "A",
-        "characters": [
-            {
-                "name": "Darius",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Darius.png",
-                "attrs": [
-                    "c1",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Shen",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Shen.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Yorick",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Yorick.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Alune",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Alune.png",
-                "attrs": [
-                    "c3",
-                    "s11",
-                    "l3"
-                ],
-                "items": [
-                    {
-                        "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
-                    },
-                    {
-                        "name": "Rabadon's Deathcap",
-                        "src": "https://rerollcdn.com/items/RabadonsDeathcap.png"
-                    },
-                    {
-                        "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
-                    }
-                ]
-            },
-            {
-                "name": "Yone",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Yone.png",
-                "attrs": [
-                    "c3",
-                    "s11",
-                    "l3"
-                ],
-                "items": [
-                    {
-                        "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
-                    },
-                    {
-                        "name": "Guinsoo's Rageblade",
-                        "src": "https://rerollcdn.com/items/GuinsoosRageblade.png"
-                    },
-                    {
-                        "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
-                    }
-                ]
-            },
-            {
-                "name": "Kayn",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Kayn.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Sylas",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Sylas.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Sett",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Sett.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            }
-        ],
-        "ingredients": {
-            "Needlessly Large Rod": 4,
-            "Sparring Gloves": 1,
-            "B.F. Sword": 2,
-            "Tear of the Goddess": 1,
+            "Chain Vest": 1,
             "Negatron Cloak": 1,
-            "Recurve Bow": 2,
-            "Chain Vest": 1
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1
         }
     },
     {
@@ -2595,16 +2718,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -2618,15 +2741,15 @@
                 "items": [
                     {
                         "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
+                        "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
                     },
                     {
-                        "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "name": "Crownguard",
+                        "avatar": "https://rerollcdn.com/items/Crownguard.png"
                     },
                     {
-                        "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
+                        "name": "Ionic Spark",
+                        "avatar": "https://rerollcdn.com/items/IonicSpark.png"
                     }
                 ]
             },
@@ -2650,13 +2773,12 @@
             }
         ],
         "ingredients": {
-            "Chain Vest": 3,
+            "Chain Vest": 2,
             "Negatron Cloak": 3,
-            "Giant's Belt": 2,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 1,
             "B.F. Sword": 1,
-            "Needlessly Large Rod": 1,
-            "Sparring Gloves": 1,
-            "Recurve Bow": 1
+            "Needlessly Large Rod": 2
         }
     },
     {
@@ -2701,16 +2823,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -2725,15 +2847,15 @@
                 "items": [
                     {
                         "name": "Archangel's Staff",
-                        "src": "https://rerollcdn.com/items/ArchangelsStaff.png"
+                        "avatar": "https://rerollcdn.com/items/ArchangelsStaff.png"
                     },
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -2766,126 +2888,13 @@
             }
         ],
         "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3,
+            "Tear of the Goddess": 3,
             "Needlessly Large Rod": 2,
-            "Tear of the Goddess": 2,
             "Sparring Gloves": 1,
             "B.F. Sword": 1
-        }
-    },
-    {
-        "name": "Fated Arcanists",
-        "rank": "B",
-        "characters": [
-            {
-                "name": "Ahri",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Ahri.png",
-                "attrs": [
-                    "c1",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Yasuo",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Yasuo.png",
-                "attrs": [
-                    "c1",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Kindred",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Kindred.png",
-                "attrs": [
-                    "c2",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Aphelios",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Aphelios.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Thresh",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Thresh.png",
-                "attrs": [
-                    "c3",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
-                    },
-                    {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
-                    },
-                    {
-                        "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
-                    }
-                ]
-            },
-            {
-                "name": "Syndra",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Syndra.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": [
-                    {
-                        "name": "Blue Buff",
-                        "src": "https://rerollcdn.com/items/BlueBuff.png"
-                    },
-                    {
-                        "name": "Hextech Gunblade",
-                        "src": "https://rerollcdn.com/items/HextechGunblade.png"
-                    },
-                    {
-                        "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
-                    }
-                ]
-            },
-            {
-                "name": "Ornn",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Ornn.png",
-                "attrs": [
-                    "c4",
-                    "s11"
-                ],
-                "items": []
-            },
-            {
-                "name": "Sett",
-                "avatar": "https://rerollcdn.com/characters/Skin/11/Sett.png",
-                "attrs": [
-                    "c5",
-                    "s11"
-                ],
-                "items": []
-            }
-        ],
-        "ingredients": {
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2,
-            "Tear of the Goddess": 2,
-            "B.F. Sword": 1,
-            "Needlessly Large Rod": 2,
-            "Sparring Gloves": 1
         }
     },
     {
@@ -2946,16 +2955,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
+                        "name": "Edge of Night",
+                        "avatar": "https://rerollcdn.com/items/EdgeofNight.png"
                     },
                     {
                         "name": "Hand of Justice",
-                        "src": "https://rerollcdn.com/items/HandofJustice.png"
+                        "avatar": "https://rerollcdn.com/items/HandofJustice.png"
                     },
                     {
-                        "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
+                        "name": "Last Whisper",
+                        "avatar": "https://rerollcdn.com/items/LastWhisper.png"
                     }
                 ]
             },
@@ -2969,15 +2978,15 @@
                 "items": [
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
                         "name": "Morellonomicon",
-                        "src": "https://rerollcdn.com/items/Morellonomicon.png"
+                        "avatar": "https://rerollcdn.com/items/Morellonomicon.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -2992,11 +3001,10 @@
             }
         ],
         "ingredients": {
-            "B.F. Sword": 2,
-            "Negatron Cloak": 1,
-            "Sparring Gloves": 2,
-            "Tear of the Goddess": 2,
             "Chain Vest": 1,
+            "B.F. Sword": 2,
+            "Sparring Gloves": 3,
+            "Tear of the Goddess": 2,
             "Recurve Bow": 1,
             "Needlessly Large Rod": 2,
             "Giant's Belt": 1
@@ -3017,15 +3025,15 @@
                 "items": [
                     {
                         "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
+                        "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
                     },
                     {
                         "name": "Edge of Night",
-                        "src": "https://rerollcdn.com/items/EdgeofNight.png"
+                        "avatar": "https://rerollcdn.com/items/EdgeofNight.png"
                     },
                     {
                         "name": "Hand of Justice",
-                        "src": "https://rerollcdn.com/items/HandofJustice.png"
+                        "avatar": "https://rerollcdn.com/items/HandofJustice.png"
                     }
                 ]
             },
@@ -3039,16 +3047,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
-                    },
-                    {
                         "name": "Gargoyle Stoneplate",
-                        "src": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Sunfire Cape",
-                        "src": "https://rerollcdn.com/items/SunfireCape.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
+                    },
+                    {
+                        "name": "Warmog's Armor",
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -3113,10 +3121,10 @@
         "ingredients": {
             "B.F. Sword": 2,
             "Negatron Cloak": 2,
-            "Chain Vest": 5,
+            "Chain Vest": 2,
             "Sparring Gloves": 1,
-            "Tear of the Goddess": 1,
-            "Giant's Belt": 1
+            "Tear of the Goddess": 2,
+            "Giant's Belt": 3
         }
     },
     {
@@ -3134,15 +3142,15 @@
                 "items": [
                     {
                         "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "avatar": "https://rerollcdn.com/items/JeweledGauntlet.png"
                     },
                     {
                         "name": "Rabadon's Deathcap",
-                        "src": "https://rerollcdn.com/items/RabadonsDeathcap.png"
+                        "avatar": "https://rerollcdn.com/items/RabadonsDeathcap.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -3165,16 +3173,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Bramble Vest",
-                        "src": "https://rerollcdn.com/items/BrambleVest.png"
+                        "name": "Gargoyle Stoneplate",
+                        "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
                     },
                     {
-                        "name": "Dragon's Claw",
-                        "src": "https://rerollcdn.com/items/DragonsClaw.png"
+                        "name": "Redemption",
+                        "avatar": "https://rerollcdn.com/items/Redemption.png"
                     },
                     {
                         "name": "Warmog's Armor",
-                        "src": "https://rerollcdn.com/items/WarmogsArmor.png"
+                        "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
                     }
                 ]
             },
@@ -3228,10 +3236,10 @@
             "Needlessly Large Rod": 3,
             "Sparring Gloves": 1,
             "B.F. Sword": 1,
-            "Tear of the Goddess": 1,
-            "Chain Vest": 2,
-            "Negatron Cloak": 2,
-            "Giant's Belt": 2
+            "Tear of the Goddess": 2,
+            "Chain Vest": 1,
+            "Negatron Cloak": 1,
+            "Giant's Belt": 3
         }
     },
     {
@@ -3265,16 +3273,16 @@
                 ],
                 "items": [
                     {
-                        "name": "Jeweled Gauntlet",
-                        "src": "https://rerollcdn.com/items/JeweledGauntlet.png"
+                        "name": "Archangel's Staff",
+                        "avatar": "https://rerollcdn.com/items/ArchangelsStaff.png"
                     },
                     {
-                        "name": "Rabadon's Deathcap",
-                        "src": "https://rerollcdn.com/items/RabadonsDeathcap.png"
+                        "name": "Morellonomicon",
+                        "avatar": "https://rerollcdn.com/items/Morellonomicon.png"
                     },
                     {
                         "name": "Spear of Shojin",
-                        "src": "https://rerollcdn.com/items/SpearofShojin.png"
+                        "avatar": "https://rerollcdn.com/items/SpearofShojin.png"
                     }
                 ]
             },
@@ -3315,15 +3323,15 @@
                 "items": [
                     {
                         "name": "Bloodthirster",
-                        "src": "https://rerollcdn.com/items/Bloodthirster.png"
+                        "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
+                    },
+                    {
+                        "name": "Crownguard",
+                        "avatar": "https://rerollcdn.com/items/Crownguard.png"
                     },
                     {
                         "name": "Ionic Spark",
-                        "src": "https://rerollcdn.com/items/IonicSpark.png"
-                    },
-                    {
-                        "name": "Titan's Resolve",
-                        "src": "https://rerollcdn.com/items/TitansResolve.png"
+                        "avatar": "https://rerollcdn.com/items/IonicSpark.png"
                     }
                 ]
             },
@@ -3339,12 +3347,11 @@
         ],
         "ingredients": {
             "Needlessly Large Rod": 4,
-            "Sparring Gloves": 1,
+            "Tear of the Goddess": 2,
+            "Giant's Belt": 1,
             "B.F. Sword": 2,
-            "Tear of the Goddess": 1,
             "Negatron Cloak": 2,
-            "Chain Vest": 1,
-            "Recurve Bow": 1
+            "Chain Vest": 1
         }
     }
 ]
