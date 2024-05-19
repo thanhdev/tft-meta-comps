@@ -34,7 +34,7 @@ if (props.rank === "S") {
     <div class="col-8 team-characters">
       <div class="row">
         <template v-for="character in props.characters" :key="props.name + character.name">
-          <Character :name="character.name" :items="character.items" :class="character.attrs[0]" />
+          <Character v-bind="character" />
         </template>
       </div>
     </div>

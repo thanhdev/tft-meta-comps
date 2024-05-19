@@ -82,7 +82,11 @@ body {
 }
 
 .character {
+    position: relative;
     width: 12%;
+    min-width: 60px;
+    margin-top: 10px;
+    text-align: center;
 }
 
 img.character-icon  {
@@ -110,23 +114,23 @@ img.character-icon  {
     border-color: #17313a;
 }
 
-img.character-icon.c1 {
+.character.c1 img.character-icon {
     border: 1px solid #213042;
 }
 
-img.character-icon.c2 {
+.character.c2 img.character-icon {
     border: 1px solid #156831;
 }
 
-img.character-icon.c3 {
+.character.c3 img.character-icon {
     border: 1px solid #12407c;
 }
 
-img.character-icon.c4 {
+.character.c4 img.character-icon {
     border: 1px solid #893088;
 }
 
-img.character-icon.c5 {
+.character.c5 img.character-icon {
     border: 1px solid #b89d27;
 }
 
@@ -151,4 +155,29 @@ img.character-icon.c5 {
     opacity: 1;
     cursor: pointer;
     border: 1px solid #d47559;
+}
+
+.l3:before {
+    content: "★★★";
+    color: #e4c157
+}
+
+.l3:before,.l4:before {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    font-size: 14px;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    z-index: 10;
+    width: 100%;
+    text-align: center;
+    text-shadow: 0 3px 3px #000;
+    letter-spacing: -3px;
+    margin-left: -1px
+}
+
+.l4:before {
+    content: "★★★★";
+    color: #39bda7
 }

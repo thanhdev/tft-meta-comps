@@ -7,20 +7,18 @@ const teams = reactive([]);
 const selectedItems = reactive([]);
 const itemsCounter = reactive({});
 
-fetch("/team_comps.json")
-    .then(response => response.json())
-    .then(data => {
-      data = data.map(team => {
-        team.diffScore = 0;
-        for (const [key, value] of Object.entries(team.ingredients)) {
-          team.diffScore += value - (itemsCounter[key] || 0);
-        }
-        team.diffScore = Math.abs(team.diffScore);
-        return team;
-      })
-      teams.push(...data)
-    });
-
+const fetchTeams = async () => {
+  const response = await fetch("/tft-meta-comps/team_comps.json");
+  const data = await response.json();
+  data.forEach(team => {
+    team.diffScore = 0;
+    for (const [key, value] of Object.entries(team.ingredients)) {
+      team.diffScore += value - (itemsCounter[key] || 0);
+    }
+    team.diffScore = Math.abs(team.diffScore);
+  });
+  teams.push(...data);
+}
 
 const selectItem = (item) => {
   selectedItems.push(item);
@@ -52,6 +50,7 @@ const sortTeams = () => {
 
 }
 
+fetchTeams();
 </script>
 
 <template>
@@ -60,7 +59,7 @@ const sortTeams = () => {
       <h1 class="text-center">TFT Meta Team Comps Tier List</h1>
     </div>
   </div>
-  <div class="container">
+  <div class="row">
     <div class="row tier-group">
       <div class="col-4">
         <ItemPanel :items="selectedItems" @selectItem="selectItem" @removeItem="removeItem"/>
