@@ -35,6 +35,14 @@ const removeItem = (item) => {
   }
 }
 
+const clearItems = () => {
+  selectedItems.splice(0, selectedItems.length);
+  for (let key of Object.keys(itemsCounter)) {
+    itemsCounter[key] = 0;
+  }
+  sortTeams();
+}
+
 const sortTeams = () => {
   teams.forEach(team => {
     team.diffScore = 0;
@@ -62,12 +70,12 @@ fetchTeams();
   <div class="row">
     <div class="row tier-group">
       <div class="col-4">
-        <ItemPanel :items="selectedItems" @selectItem="selectItem" @removeItem="removeItem"/>
+        <ItemPanel :items="selectedItems" @selectItem="selectItem" @removeItem="removeItem" @clearItems="clearItems"/>
       </div>
       <div class="col-8">
         <TeamPortrait
             v-for="team in teams"
-            :key="team.name"
+            :key="team.name + team.rank"
             v-bind="team"
         />
       </div>

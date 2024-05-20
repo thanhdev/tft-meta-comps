@@ -55,7 +55,7 @@ def crawl_team_comps():
 
     path = Path(__file__).parent.parent / 'public' / 'team_comps.json'
     with open(path, 'w') as f:
-        json.dump(teams, f, indent=4)
+        json.dump(teams, f, indent=2)
     return teams
 
 

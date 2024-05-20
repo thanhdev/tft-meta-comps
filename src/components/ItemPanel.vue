@@ -3,7 +3,7 @@ import {reactive, ref} from "vue";
 import Item from "@/components/Item.vue";
 
 const props = defineProps(['items']);
-defineEmits(['selectItem', 'removeItem']);
+defineEmits(['selectItem', 'removeItem', 'clearItems']);
 
 const items = ref([
   "B.F. Sword",
@@ -70,10 +70,18 @@ const selectedItems = reactive(props.items);
     <Item v-for="item in items" :alt="item" :key="item" @click="$emit('selectItem', item)"/>
   </div>
   <div class="items-panel" v-show="selectedItems.length">
-    <Item v-for="item in selectedItems" :alt="item" :key="item" @click="$emit('removeItem', item)" />
+    <Item v-for="item in selectedItems" :alt="item" :key="item" @click="$emit('removeItem', item)"/>
+    <button v-show="selectedItems.length"
+            class="float-right team-playstyle"
+            @click="$emit('clearItems')">
+      Clear
+    </button>
   </div>
 </template>
 
 <style scoped>
-
+button.team-playstyle {
+  border: none;
+  float: right;
+}
 </style>
