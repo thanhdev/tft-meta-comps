@@ -67,10 +67,18 @@ const selectedItems = reactive(props.items);
 
 <template>
   <div class="items-panel">
-    <Item v-for="item in items" :alt="item" :key="item" @click="$emit('selectItem', item)"/>
+    <Item v-for="item in items"
+          :alt="item"
+          :key="item"
+          @click="$emit('selectItem', item)"
+    />
   </div>
   <div class="items-panel" v-show="selectedItems.length">
-    <Item v-for="item in selectedItems" :alt="item" :key="item" @click="$emit('removeItem', item)"/>
+    <Item v-for="item in selectedItems"
+          :alt="item"
+          :key="item"
+          @click="$emit('removeItem', item)"
+    />
     <button v-show="selectedItems.length"
             class="float-right team-playstyle"
             @click="$emit('clearItems')">
@@ -83,5 +91,36 @@ const selectedItems = reactive(props.items);
 button.team-playstyle {
   border: none;
   float: right;
+  color: #88a0a7;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: .05em;
+  background: #123040;
+  border-radius: 4px;
+  line-height: 1em;
 }
+
+.items-panel {
+    padding: 5px;
+    background: #102531;
+    border: 1px solid #17313a;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    min-width: 30px;
+    min-height: 30px;
+    opacity: .5;
+    transition: all .3s;
+    margin: 5px;
+}
+
+img:hover {
+    opacity: 1;
+    cursor: pointer;
+    border: 1px solid #d47559;
+}
+
 </style>

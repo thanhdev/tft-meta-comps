@@ -9,5 +9,8 @@ const src = `https://rerollcdn.com/items/${normalizedName}.png`
 </template>
 
 <style scoped>
-
+.character-item-icon {
+    width: 18px;
+    height: 18px;
+}
 </style>
