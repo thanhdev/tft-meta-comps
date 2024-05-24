@@ -8,7 +8,7 @@ const src = `https://rerollcdn.com/characters/Skin/11/${normalizedName}.png`
 </script>
 
 <template>
-  <div class="character" :class="props.attrs">
+  <div class="character d-flex flex-column align-items-center" :class="props.attrs">
     <div class="character-wrapper">
       <img class="character-icon" :src :alt="props.name">
     </div>
@@ -27,7 +27,6 @@ const src = `https://rerollcdn.com/characters/Skin/11/${normalizedName}.png`
 
 .character {
     position: relative;
-    width: 12%;
     min-width: 60px;
     margin-top: 10px;
     text-align: center;

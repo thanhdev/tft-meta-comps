@@ -62,23 +62,17 @@ fetchTeams();
 </script>
 
 <template>
-  <div class="row">
-    <div class="col">
-      <h1 class="text-center">TFT Meta Team Comps Tier List</h1>
+  <h3 class="text-center p-2">TFT Meta Team Comps Tier List</h3>
+  <div class="main-panel p-2 d-flex justify-content-center">
+    <div style="max-width: 25%;">
+      <ItemPanel :items="selectedItems" @selectItem="selectItem" @removeItem="removeItem" @clearItems="clearItems"/>
     </div>
-  </div>
-  <div class="row">
-    <div class="row tier-group">
-      <div class="col-4">
-        <ItemPanel :items="selectedItems" @selectItem="selectItem" @removeItem="removeItem" @clearItems="clearItems"/>
-      </div>
-      <div class="col-8">
-        <TeamPortrait
-            v-for="team in teams"
-            :key="team.name + team.rank"
-            v-bind="team"
-        />
-      </div>
+    <div>
+      <TeamPortrait
+          v-for="team in teams"
+          :key="team.name + team.rank"
+          v-bind="team"
+      />
     </div>
   </div>
 </template>

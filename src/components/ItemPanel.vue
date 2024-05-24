@@ -80,7 +80,7 @@ const selectedItems = reactive(props.items);
           @click="$emit('removeItem', item)"
     />
     <button v-show="selectedItems.length"
-            class="float-right team-playstyle"
+            class="float-right"
             @click="$emit('clearItems')">
       Clear
     </button>
@@ -88,7 +88,7 @@ const selectedItems = reactive(props.items);
 </template>
 
 <style scoped>
-button.team-playstyle {
+button {
   border: none;
   float: right;
   color: #88a0a7;

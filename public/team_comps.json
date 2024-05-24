@@ -225,6 +225,118 @@
     }
   },
   {
+    "name": "Bruisers",
+    "rank": "S",
+    "characters": [
+      {
+        "name": "Kobuko",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/Kobuko.png",
+        "attrs": [
+          "c1",
+          "s11"
+        ],
+        "items": []
+      },
+      {
+        "name": "Aatrox",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/Aatrox.png",
+        "attrs": [
+          "c2",
+          "s11"
+        ],
+        "items": []
+      },
+      {
+        "name": "Riven",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/Riven.png",
+        "attrs": [
+          "c2",
+          "s11"
+        ],
+        "items": []
+      },
+      {
+        "name": "Tahm Kench",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/TahmKench.png",
+        "attrs": [
+          "c3",
+          "s11"
+        ],
+        "items": []
+      },
+      {
+        "name": "Galio",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/Galio.png",
+        "attrs": [
+          "c4",
+          "s11"
+        ],
+        "items": [
+          {
+            "name": "Gargoyle Stoneplate",
+            "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+          },
+          {
+            "name": "Redemption",
+            "avatar": "https://rerollcdn.com/items/Redemption.png"
+          },
+          {
+            "name": "Warmog's Armor",
+            "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
+          }
+        ]
+      },
+      {
+        "name": "Sylas",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/Sylas.png",
+        "attrs": [
+          "c4",
+          "s11"
+        ],
+        "items": [
+          {
+            "name": "Bloodthirster",
+            "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
+          },
+          {
+            "name": "Crownguard",
+            "avatar": "https://rerollcdn.com/items/Crownguard.png"
+          },
+          {
+            "name": "Ionic Spark",
+            "avatar": "https://rerollcdn.com/items/IonicSpark.png"
+          }
+        ]
+      },
+      {
+        "name": "Irelia",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/Irelia.png",
+        "attrs": [
+          "c5",
+          "s11"
+        ],
+        "items": []
+      },
+      {
+        "name": "Sett",
+        "avatar": "https://rerollcdn.com/characters/Skin/11/Sett.png",
+        "attrs": [
+          "c5",
+          "s11"
+        ],
+        "items": []
+      }
+    ],
+    "ingredients": {
+      "Chain Vest": 2,
+      "Negatron Cloak": 3,
+      "Giant's Belt": 3,
+      "Tear of the Goddess": 1,
+      "B.F. Sword": 1,
+      "Needlessly Large Rod": 2
+    }
+  },
+  {
     "name": "Warden Snipers",
     "rank": "S",
     "characters": [
@@ -3137,118 +3249,6 @@
       "Negatron Cloak": 1,
       "Giant's Belt": 3,
       "Tear of the Goddess": 1
-    }
-  },
-  {
-    "name": "Bruisers",
-    "rank": "B",
-    "characters": [
-      {
-        "name": "Kobuko",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/Kobuko.png",
-        "attrs": [
-          "c1",
-          "s11"
-        ],
-        "items": []
-      },
-      {
-        "name": "Aatrox",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/Aatrox.png",
-        "attrs": [
-          "c2",
-          "s11"
-        ],
-        "items": []
-      },
-      {
-        "name": "Riven",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/Riven.png",
-        "attrs": [
-          "c2",
-          "s11"
-        ],
-        "items": []
-      },
-      {
-        "name": "Tahm Kench",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/TahmKench.png",
-        "attrs": [
-          "c3",
-          "s11"
-        ],
-        "items": []
-      },
-      {
-        "name": "Galio",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/Galio.png",
-        "attrs": [
-          "c4",
-          "s11"
-        ],
-        "items": [
-          {
-            "name": "Gargoyle Stoneplate",
-            "avatar": "https://rerollcdn.com/items/GargoyleStoneplate.png"
-          },
-          {
-            "name": "Redemption",
-            "avatar": "https://rerollcdn.com/items/Redemption.png"
-          },
-          {
-            "name": "Warmog's Armor",
-            "avatar": "https://rerollcdn.com/items/WarmogsArmor.png"
-          }
-        ]
-      },
-      {
-        "name": "Sylas",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/Sylas.png",
-        "attrs": [
-          "c4",
-          "s11"
-        ],
-        "items": [
-          {
-            "name": "Bloodthirster",
-            "avatar": "https://rerollcdn.com/items/Bloodthirster.png"
-          },
-          {
-            "name": "Crownguard",
-            "avatar": "https://rerollcdn.com/items/Crownguard.png"
-          },
-          {
-            "name": "Ionic Spark",
-            "avatar": "https://rerollcdn.com/items/IonicSpark.png"
-          }
-        ]
-      },
-      {
-        "name": "Irelia",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/Irelia.png",
-        "attrs": [
-          "c5",
-          "s11"
-        ],
-        "items": []
-      },
-      {
-        "name": "Sett",
-        "avatar": "https://rerollcdn.com/characters/Skin/11/Sett.png",
-        "attrs": [
-          "c5",
-          "s11"
-        ],
-        "items": []
-      }
-    ],
-    "ingredients": {
-      "Chain Vest": 2,
-      "Negatron Cloak": 3,
-      "Giant's Belt": 3,
-      "Tear of the Goddess": 1,
-      "B.F. Sword": 1,
-      "Needlessly Large Rod": 2
     }
   },
   {

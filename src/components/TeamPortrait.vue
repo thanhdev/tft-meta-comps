@@ -7,7 +7,8 @@ const props = defineProps({
   rank: String,
   playStyle: String,
   diffScore: Number,
-  characters: Array
+  characters: Array,
+  ingredients: Object
 });
 
 const rankClass = computed(() => {
@@ -23,30 +24,26 @@ const rankClass = computed(() => {
 </script>
 
 <template>
-  <div class="row team-portrait">
-    <div class="col-4 team-name">
-      <div class="row">
-        <div class="col-1 team-rank" :class="rankClass">{{ props.rank}}</div>
-        <div class="col team-name-elipsis">
-          {{ props.name }}
-          <div class="team-playstyle">required: {{ props.diffScore }} items</div>
-        </div>
+  <div class="team-portrait d-flex justify-content-between align-items-start
+    flex-column flex-md-row">
+    <div class="team-name d-flex justify-content-center align-items-center align-self-start align-self-md-center">
+      <div class="team-rank" :class="rankClass">{{ props.rank}}</div>
+      <div class="team-name-elipsis">
+        {{ props.name }}
+        <div class="team-playstyle">required: {{ props.diffScore }} items</div>
       </div>
     </div>
-    <div class="col-8 team-characters">
-      <div class="row">
-        <template v-for="character in props.characters" :key="props.name + character.name">
-          <Character v-bind="character" />
-        </template>
-      </div>
+    <div class="team-characters d-flex justify-content-start flex-wrap ">
+      <template v-for="character in props.characters" :key="props.name + character.name">
+        <Character v-bind="character" />
+      </template>
     </div>
   </div>
 </template>
 
 <style scoped>
 .team-portrait {
-    align-items: center;
-    width: 100%;
+    max-width: 900px;
     border: 1px solid #17313a;
     margin: 0 0 7px 7px;
     padding: 7px;
@@ -60,7 +57,7 @@ const rankClass = computed(() => {
     width: 25px;
     height: 25px;
     padding: 5px;
-    margin-right: 15px;
+    margin: 0 15px;
     color: #0d202b;
     font-weight: 600;
     border-radius: 2.5px;
@@ -99,10 +96,6 @@ const rankClass = computed(() => {
 
 .team-rank.tthree {
     background: #ffdf7f;
-}
-
-.team-characters {
-    padding-top: 10px;
 }
 
 </style>
