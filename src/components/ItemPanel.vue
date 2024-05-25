@@ -73,14 +73,14 @@ const selectedItems = reactive(props.items);
           @click="$emit('selectItem', item)"
     />
   </div>
-  <div class="items-panel" v-show="selectedItems.length">
+  <div class="items-panel position-relative" v-show="selectedItems.length">
     <Item v-for="item in selectedItems"
           :alt="item"
           :key="item"
           @click="$emit('removeItem', item)"
     />
     <button v-show="selectedItems.length"
-            class="float-right"
+            class="position-absolute"
             @click="$emit('clearItems')">
       Clear
     </button>
@@ -89,6 +89,8 @@ const selectedItems = reactive(props.items);
 
 <style scoped>
 button {
+  top: -10px;
+  right: 7px;
   border: none;
   float: right;
   color: #88a0a7;
