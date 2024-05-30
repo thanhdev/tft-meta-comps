@@ -8,7 +8,7 @@ const selectedItems = reactive([]);
 const itemsCounter = reactive({});
 
 const fetchTeams = async () => {
-  const response = await fetch("/tft-meta-comps/team_comps.json");
+  const response = await fetch("/team_comps.json");
   const data = await response.json();
   data.forEach(team => {
     team.diffScore = 0;
