@@ -53,9 +53,6 @@ def crawl_team_comps():
         calculate_recipes(team)
         teams.append(team)
 
-    path = Path(__file__).parent.parent / 'public' / 'team_comps.json'
-    with open(path, 'w') as f:
-        json.dump(teams, f, indent=2)
     return teams
 
 
@@ -98,4 +95,7 @@ def calculate_recipes(team):
 
 
 if __name__ == '__main__':
-    crawl_team_comps()
+    teams = crawl_team_comps()
+    path = Path(__file__).parent.parent / 'public' / 'team_comps.json'
+    with open(path, 'w') as f:
+        json.dump(teams, f, indent=2)
