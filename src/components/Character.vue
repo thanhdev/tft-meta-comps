@@ -3,7 +3,7 @@
 import Item from "@/components/Item.vue";
 
 const props = defineProps(['name', 'attrs', 'items']);
-const normalizedName = props.name.replace(/[^a-zA-Z]/g, '');
+const normalizedName = props.name.replace(/[^a-zA-Z&]/g, '');
 const src = `https://rerollcdn.com/characters/Skin/12/${normalizedName}.png`
 </script>
 
